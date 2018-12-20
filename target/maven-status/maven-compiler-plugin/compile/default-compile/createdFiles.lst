@@ -1,0 +1,17 @@
+com\alick\test\IDemo.class
+com\alick\test\Demo.class
+com\alick\mina\client\MinaClient$1.class
+com\alick\mina\client\Person.class
+com\alick\test\NewDemo.class
+com\alick\mina\client\MinaClient.class
+com\zkzong\spring\model\Person.class
+com\zkzong\spring\service\PersonService.class
+com\zkzong\spring\dao\PersonDaoImpl.class
+com\zkzong\spring\dao\PersonDao.class
+com\alick\mina\server\MinaServer$1.class
+com\zkzong\spring\PersonController.class
+com\alick\mina\client\Test.class
+com\alick\mina\server\MinaServer.class
+com\alick\mina\client\Info.class
+com\zkzong\spring\service\PersonServiceImpl.class
+com\alick\test\Test.class
